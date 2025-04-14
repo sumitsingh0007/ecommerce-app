@@ -1,0 +1,15 @@
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.deps.json
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Infrastructure.pdb
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Core.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/bin/Debug/net9.0/ECommerce.Core.pdb
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.csproj.AssemblyReference.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.AssemblyInfoInputs.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.AssemblyInfo.cs
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerc.B0B31267.Up2Date
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/refint/ECommerce.Infrastructure.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ECommerce.Infrastructure.pdb
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Infrastructure/obj/Debug/net9.0/ref/ECommerce.Infrastructure.dll

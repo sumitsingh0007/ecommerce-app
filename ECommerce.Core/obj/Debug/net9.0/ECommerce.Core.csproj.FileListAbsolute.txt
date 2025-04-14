@@ -1,0 +1,12 @@
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/bin/Debug/net9.0/ECommerce.Core.deps.json
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/bin/Debug/net9.0/ECommerce.Core.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/bin/Debug/net9.0/ECommerce.Core.pdb
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.csproj.AssemblyReference.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.AssemblyInfoInputs.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.AssemblyInfo.cs
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.csproj.CoreCompileInputs.cache
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/refint/ECommerce.Core.dll
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ECommerce.Core.pdb
+/Users/sumitsingh07/Documents/personal/learning/ecommerce/ECommerceApp/ECommerce.Core/obj/Debug/net9.0/ref/ECommerce.Core.dll
